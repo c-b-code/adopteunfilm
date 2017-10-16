@@ -1,18 +1,17 @@
-<?php
-$tableau = ["Jean-Basptise","Alexis","Raphaëlle"];
- ?>
 
  <html>
-  <head></head>
+  <head>Adopte un film</head>
 
   <body>
-    
-      <ul>
-        <?php foreach ($tableau as $var) :?>
-              <li> <?php echo $var; ?> </li>
-          <?php endforeach; ?>
 
-      </ul>
+    <h1></h1>
+
+    <ul>
+      <li>YO</li>
+      <li></li>
+      <li></li>
+    </ul>
+
   </body>
 
   </html>
