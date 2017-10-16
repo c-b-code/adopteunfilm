@@ -6,6 +6,7 @@ $tableau = ["Jean-Basptise","Alexis","Raphaëlle"];
   <head></head>
 
   <body>
+    
       <ul>
         <?php foreach ($tableau as $var) :?>
               <li> <?php echo $var; ?> </li>
